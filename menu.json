@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+        "name": "SDR Cleaner",
+        "priority": 0,
+        "items": [
+                  {
+                    "name": "Clean SDR Folder",
+                        "priority": 1,
+                        "action": "./bin/bash ./bin/sdr_cleaner.sh",
+                        "exitmenu": false,
+                        "checked": false,
+                        "status": false,
+                        "internal": "status Unused SDR folder was cleared!"
+                    }
+        ]
+        }
+    ]
+}
