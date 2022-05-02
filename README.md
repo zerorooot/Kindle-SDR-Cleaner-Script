@@ -6,7 +6,7 @@ Jailbreaking and installing [KUAL](https://www.mobileread.com/forums/showthread.
 
 ## Installation
 
-Download, unzip, and move the folder into the `extensions`
+[Download](https://github.com/zerorooot/Kindle-SDR-Cleaner-Script/releases), unzip, and move the folder into the `extensions`
 
 Note: The script will not print the information, just click
 
